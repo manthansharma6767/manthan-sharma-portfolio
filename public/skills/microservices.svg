@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="msGrad" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#msGrad)" stroke-width="3" stroke-linecap="round">
+    <path d="M32 22v8"/>
+    <path d="M32 30H14v10"/>
+    <path d="M32 30h18v10"/>
+    <path d="M32 30v10"/>
+  </g>
+  <g fill="url(#msGrad)">
+    <rect x="23" y="6" width="18" height="16" rx="4"/>
+    <rect x="5" y="40" width="18" height="16" rx="4"/>
+    <rect x="23" y="40" width="18" height="16" rx="4"/>
+    <rect x="41" y="40" width="18" height="16" rx="4"/>
+  </g>
+</svg>

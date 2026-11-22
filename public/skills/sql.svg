@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="sqlGrad" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="32" cy="15" rx="20" ry="8" stroke="url(#sqlGrad)" stroke-width="4"/>
+  <path d="M12 15v34c0 4.42 8.95 8 20 8s20-3.58 20-8V15" stroke="url(#sqlGrad)" stroke-width="4"/>
+  <path d="M12 32c0 4.42 8.95 8 20 8s20-3.58 20-8" stroke="url(#sqlGrad)" stroke-width="4"/>
+</svg>
