@@ -20,6 +20,6 @@ export const siteConfig: Metadata = {
     url: "https://github.com/manthansharma6767",
   },
   icons: {
-    icon: "/logo.png",
+    icon: "/logo-ms.png",
   },
 } as const;
